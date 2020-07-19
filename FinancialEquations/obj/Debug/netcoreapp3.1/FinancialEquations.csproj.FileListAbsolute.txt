@@ -1,0 +1,9 @@
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\bin\Debug\netcoreapp3.1\FinancialEquations.deps.json
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\bin\Debug\netcoreapp3.1\FinancialEquations.dll
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\bin\Debug\netcoreapp3.1\FinancialEquations.pdb
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.AssemblyInfoInputs.cache
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.AssemblyInfo.cs
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.csproj.CoreCompileInputs.cache
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.dll
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.pdb
+C:\Users\colli\Source\Repos\FianceCalculator\FinancialEquations\obj\Debug\netcoreapp3.1\FinancialEquations.csprojAssemblyReference.cache
